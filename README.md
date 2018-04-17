@@ -5,7 +5,9 @@ Join me in creating the Android phone app for controlling an HC-05 or HC-06 Blue
 
 You can download the App and install it on your phone as well as the project for the code in "MIT App Inventor 2" so you get the "source code" and can then tweak it any way you want.
 
-The links that you may need after following the video are right here in the GitHub.
+The links that you may need after following the video are right here in the GitHub:
+https://github.com/RalphBacon/BluetoothIOT
+
 They consist of, individually:
 
 1. The Android Phone App - send it to your phone in an email, click the attachment and install it using the Package Installer
@@ -14,7 +16,7 @@ They consist of, individually:
 
 3. To speed things up, here the the webpage for the MIT App Inventor:
 (it may prompt you to sign in)
-http://appinventor.mit.edu/explore/ge...
+http://appinventor.mit.edu/explore/get-started.html
 
 As I mentioned in the video, please suggest practical applications for using Bluetooth from your phone to control an Arduino and we will see what fantastic projects people come up with.
 
